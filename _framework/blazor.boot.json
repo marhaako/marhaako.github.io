@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Crack.Application.Browser",
   "resources": {
-    "hash": "sha256-wLuvYaOCszRm52JYZeT0oHhyGyU0i7QLPcacBAaQKMk=",
+    "hash": "sha256-KADg5wmhZ+ZzMNdsmTBEC8h7Qpnyu8eFA3iO8NiZrd4=",
     "fingerprinting": {
       "Ardalis.GuardClauses.leqc9cxdo1.wasm": "Ardalis.GuardClauses.wasm",
       "Avalonia.Base.hi23v6rqyq.wasm": "Avalonia.Base.wasm",
@@ -22,12 +22,12 @@
       "Avalonia.qijfoe9ue1.wasm": "Avalonia.wasm",
       "BCrypt.Net-Next.atqw2jgj6x.wasm": "BCrypt.Net-Next.wasm",
       "CommunityToolkit.Mvvm.4sdv9o2ycm.wasm": "CommunityToolkit.Mvvm.wasm",
-      "Crack.Application.Browser.b7liymvm5o.wasm": "Crack.Application.Browser.wasm",
-      "Crack.Application.ugxsyz7hpz.wasm": "Crack.Application.wasm",
-      "Crack.Common.shiy4u3jra.wasm": "Crack.Common.wasm",
-      "Crack.Domain.5k1k8caa7j.wasm": "Crack.Domain.wasm",
-      "Crack.Infrastructure.00xyt856so.wasm": "Crack.Infrastructure.wasm",
-      "Crack.UI.y8g5nq952a.wasm": "Crack.UI.wasm",
+      "Crack.Application.Browser.njl3dugipm.wasm": "Crack.Application.Browser.wasm",
+      "Crack.Application.l0o0vsbtdz.wasm": "Crack.Application.wasm",
+      "Crack.Common.8wnhy5o1p8.wasm": "Crack.Common.wasm",
+      "Crack.Domain.heusgwmd0b.wasm": "Crack.Domain.wasm",
+      "Crack.Infrastructure.z3lbb2aljq.wasm": "Crack.Infrastructure.wasm",
+      "Crack.UI.uxybwg20bj.wasm": "Crack.UI.wasm",
       "FluentValidation.2ah1gd95rq.wasm": "FluentValidation.wasm",
       "HarfBuzzSharp.j0s9sjzmln.wasm": "HarfBuzzSharp.wasm",
       "MicroCom.Runtime.8lt3mh4b1t.wasm": "MicroCom.Runtime.wasm",
@@ -240,7 +240,7 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Crack.Common.resources.i29s8ykt04.wasm": "Crack.Common.resources.wasm"
+      "Crack.Common.resources.dcxjrhiagj.wasm": "Crack.Common.resources.wasm"
     },
     "jsModuleNative": {
       "dotnet.native.vwganrg3bw.js": "sha256-4QglhNJ6kVS0XroxnVAEcjdpuYPQr0Tb3STfbT77mDE="
@@ -280,12 +280,12 @@
       "Avalonia.qijfoe9ue1.wasm": "sha256-bs9js7aWxynydgqEAniLljVIZHweeFso3O3G7oHO/Gc=",
       "BCrypt.Net-Next.atqw2jgj6x.wasm": "sha256-vn1+CLDQA7cXT++8crd9GTBHootDpHMDJ06/FyiImpA=",
       "CommunityToolkit.Mvvm.4sdv9o2ycm.wasm": "sha256-fP9s6pvQnT+gJSrJNfvi4Visl8xT031P2rPXWfsg5vs=",
-      "Crack.Application.Browser.b7liymvm5o.wasm": "sha256-Kdp/T8A7kyaFLgKuhtWa4vXjoWdbPzQDVAhm3vp/yXA=",
-      "Crack.Application.ugxsyz7hpz.wasm": "sha256-bhbR6pDGPDkubIJhby9jDAk7/4y/gZRzqjhkEA6dK1Y=",
-      "Crack.Common.shiy4u3jra.wasm": "sha256-4MEiggVrFg/LCYSVtXI9w6sgnMuYRuVJDDhfcUbH1h8=",
-      "Crack.Domain.5k1k8caa7j.wasm": "sha256-G+McJLKcLxDTDZeSGQPhxZH3Z3BtjEyC9fP1nf9Qa+M=",
-      "Crack.Infrastructure.00xyt856so.wasm": "sha256-cPddqs5AXA6DIKuNpS44lzIQkS+YUHwq5kZhUwdL4bA=",
-      "Crack.UI.y8g5nq952a.wasm": "sha256-gtDOmEDSJpwrVUQcjdvNGXUibJu5i075dIm8jNtTDMk=",
+      "Crack.Application.Browser.njl3dugipm.wasm": "sha256-03SxcEowASta67GDKGjQ2UCczz/e3tXWp1HUVraDiIA=",
+      "Crack.Application.l0o0vsbtdz.wasm": "sha256-ldjwJShQoSYj0Jv5i9fetEgFv/he6+sk+HE3wbAJRto=",
+      "Crack.Common.8wnhy5o1p8.wasm": "sha256-OOkpKMLBHXoJ+bS7cU8tXaiDiTVYKBIxuWfSSXLb/ZQ=",
+      "Crack.Domain.heusgwmd0b.wasm": "sha256-6bgzuISc5V1UEZz0ROYrXMDHsczt2L8UE8hGl4OaZGk=",
+      "Crack.Infrastructure.z3lbb2aljq.wasm": "sha256-n1KkUyDsbWJKFJjZaQbsGD6Cdli3Hpjvaph1YMXrR9g=",
+      "Crack.UI.uxybwg20bj.wasm": "sha256-ogVMDJj2qOJOLkwh1Vcjys21S4sqwudad/bCENt3j9E=",
       "FluentValidation.2ah1gd95rq.wasm": "sha256-ukF35NXSpc9q3xeJxoUVpGe3xuW01JRWsIpWqdLaqhw=",
       "HarfBuzzSharp.j0s9sjzmln.wasm": "sha256-E27Yd8SSv+ZATx22loehsnmYWSGQTqIbichqRnNkXKk=",
       "MicroCom.Runtime.8lt3mh4b1t.wasm": "sha256-dI22KS20yc+ziyg4tSUpmSjG0ebPXDL5QTSZf+ehjwI=",
@@ -492,7 +492,7 @@
     },
     "satelliteResources": {
       "nb-no": {
-        "Crack.Common.resources.i29s8ykt04.wasm": "sha256-FpM6ywHGR3mJbAsogUf81GcOmD3w3mAKrBkUdy5eB5c="
+        "Crack.Common.resources.dcxjrhiagj.wasm": "sha256-c1EP0+ga7YHZEXjx0Nt/kFdzLlFhqdjXVZifH4+2cFA="
       }
     }
   },
